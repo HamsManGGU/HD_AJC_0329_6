@@ -1,0 +1,8 @@
+F:\KNOU_Unity\C#_Practice\HD_AJC_0329_6\0329_6\0329_6\bin\Debug\0329_6.exe.config
+F:\KNOU_Unity\C#_Practice\HD_AJC_0329_6\0329_6\0329_6\bin\Debug\0329_6.exe
+F:\KNOU_Unity\C#_Practice\HD_AJC_0329_6\0329_6\0329_6\bin\Debug\0329_6.pdb
+F:\KNOU_Unity\C#_Practice\HD_AJC_0329_6\0329_6\0329_6\obj\Debug\0329_6.csproj.AssemblyReference.cache
+F:\KNOU_Unity\C#_Practice\HD_AJC_0329_6\0329_6\0329_6\obj\Debug\0329_6.csproj.SuggestedBindingRedirects.cache
+F:\KNOU_Unity\C#_Practice\HD_AJC_0329_6\0329_6\0329_6\obj\Debug\0329_6.csproj.CoreCompileInputs.cache
+F:\KNOU_Unity\C#_Practice\HD_AJC_0329_6\0329_6\0329_6\obj\Debug\0329_6.exe
+F:\KNOU_Unity\C#_Practice\HD_AJC_0329_6\0329_6\0329_6\obj\Debug\0329_6.pdb
